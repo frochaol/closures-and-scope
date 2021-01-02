@@ -1,0 +1,19 @@
+{
+  "name": "scopeandclosures",
+  "version": "1.0.0",
+  "description": "Curso de closures y scope en javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frochaol/closures-and-scope.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frochaol/closures-and-scope/issues"
+  },
+  "homepage": "https://github.com/frochaol/closures-and-scope#readme"
+}
